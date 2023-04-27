@@ -1,5 +1,5 @@
 variables:
   devEnvironmentName: dev
-  devResourceGroupName: rg-logicSbInteg-ussc-dev
+  devResourceGroupName: LG_LogicAppDemo
   devServiceConnectionName: LogicAppDemo
-  devLogicAppName: logic-logicSbInteg-ussc-bicep
+  devLogicAppName: LGdemoapp
